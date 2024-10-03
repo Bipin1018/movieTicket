@@ -1,0 +1,15 @@
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\bin\Debug\net8.0\MovieTicketApp.exe
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\bin\Debug\net8.0\MovieTicketApp.deps.json
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\bin\Debug\net8.0\MovieTicketApp.runtimeconfig.json
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\bin\Debug\net8.0\MovieTicketApp.dll
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\bin\Debug\net8.0\MovieTicketApp.pdb
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.AssemblyInfoInputs.cache
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.AssemblyInfo.cs
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.dll
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\refint\MovieTicketApp.dll
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.pdb
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.genruntimeconfig.cache
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\ref\MovieTicketApp.dll
+C:\Users\bipin\source\repos\MovieTicketApp\MovieTicketApp\obj\Debug\net8.0\MovieTicketApp.sourcelink.json
